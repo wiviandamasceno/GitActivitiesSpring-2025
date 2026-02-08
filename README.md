@@ -1,5 +1,4 @@
-# Git Activities #
-This repository holds a number of activities to aid in your learning of GIT.
+mkdir GitActivities-Spring2025
+cd GitActivities-Spring2025
+git clone https://github.com/wiviandamasceno/GitActivitiesSpring-2025.git
 
-## Your Task ##
-Walk through the assignments to gain a solid understanding of working with GIT.
